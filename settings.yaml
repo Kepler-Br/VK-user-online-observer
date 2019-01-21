@@ -1,0 +1,7 @@
+{
+  "token": 'Your token goes here',
+  # Users we observe. IDs only.
+  "targets": [0, 1],
+  # Time in seconds between API requests.
+  "sleep_time": 2
+}
